@@ -1,0 +1,2 @@
+# GoogleMapsMarkerAnimation
+- GoogleMapsMarker + Lottie
